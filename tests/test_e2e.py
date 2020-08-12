@@ -8,4 +8,5 @@ class Testone(BaseClass):
 
     def test_open(self,setup):
         print("The title of the page is " + self.driver.title)
+        print ("Hello this is the program running from GIT")
 
